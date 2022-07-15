@@ -1,12 +1,27 @@
 ### Hi there, I'm Nikki Satmaka 👋
 
+## I'm a Data Scientist and Investment Analyst
+
 - 🔭 I’m currently working on Data Science and Quantitative Finance
 - 🌱 I’m currently learning NLP, Docker and Kubernetes
 - 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Containers and Kubernetes
 - 💬 Ask me about Data Science and Investment
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikkisatmaka/) and [Twitter](https://twitter.com/nikkisatmaka)
-- 😄 Pronouns: He/Him
+- �😄 Pronouns: He/Him
 - ⚡ Fun fact: I love musical theater
 
+<!-- [website][website] **|** -->
+[twitter][twitter] **|**
+[youtube][youtube] **|**
+[medium][medium] **|**
+[instagram][instagram] **|**
+[linkedin][linkedin] **|**
+
+<!-- [website]: () -->
+[twitter]: (https://twitter.com/nikkisatmaka)
+[youtube]: (https://www.youtube.com/channel/UC60Mz_YfZiQimUIe45CaYsw)
+[medium]: (https://medium.com/@nikkisatmaka)
+[instagram]: (https://www.instagram.com/nikkisatmaka/)
+[linkedin]: (https://www.linkedin.com/in/nikkisatmaka/)
+
 ![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkiSatmaka&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkiSatmaka&layout=compact)

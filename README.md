@@ -10,18 +10,18 @@
 - ⚡ Fun fact: I love musical theater
 
 <!-- [website][website] **|** -->
-[twitter][twitter] **|**
-[youtube][youtube] **|**
-[medium][medium] **|**
-[instagram][instagram] **|**
-[linkedin][linkedin] **|**
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|**
+📰 [medium][medium] **|**
+📷 [instagram][instagram] **|**
+👔 [linkedin][linkedin] **|**
 
-<!-- [website]: () -->
-[twitter]: (https://twitter.com/nikkisatmaka)
-[youtube]: (https://www.youtube.com/channel/UC60Mz_YfZiQimUIe45CaYsw)
-[medium]: (https://medium.com/@nikkisatmaka)
-[instagram]: (https://www.instagram.com/nikkisatmaka/)
-[linkedin]: (https://www.linkedin.com/in/nikkisatmaka/)
+<!-- [website]:  -->
+[twitter]: https://twitter.com/nikkisatmaka
+[youtube]: https://www.youtube.com/channel/UC60Mz_YfZiQimUIe45CaYsw
+[instagram]: https://www.instagram.com/nikkisatmaka/
+[medium]: https://medium.com/@nikkisatmaka
+[linkedin]: https://www.linkedin.com/in/nikkisatmaka/
 
 ![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkiSatmaka&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkiSatmaka&layout=compact)

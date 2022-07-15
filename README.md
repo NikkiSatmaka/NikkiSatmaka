@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Nikki Satmaka 👋
 
-<!--
-**NikkiSatmaka/NikkiSatmaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Data Science and Quantitative Finance
+- 🌱 I’m currently learning NLP, Docker and Kubernetes
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with Containers and Kubernetes
+- 💬 Ask me about Data Science and Investment
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikkisatmaka/) and [Twitter](https://twitter.com/nikkisatmaka)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love musical theater
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkiSatmaka&show_icons=true&theme=onedark)
